@@ -27,19 +27,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,leetcode,git,postman,figma,xd&perline=5" alt="My Skills"/>
   </a>
-</p>
-
-<h3 align="center">My LeetCode Stats:</h3>
-<p align="center">
-  <a href="https://leetcode.com/u/BukhariProgrammer/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
-</p>
-<h3 align="center">LeetCode Streak:</h3>
-<p align="center">
-  <img src="https://leetcode-streak-badge.herokuapp.com/?user=BukhariProgrammer" alt="LeetCode Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBukhariDev&theme=dark" alt="Top Languages"/>
