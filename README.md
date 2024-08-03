@@ -37,7 +37,10 @@
     <img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
   </a>
 </p>
-
+<h3 align="center">LeetCode Streak:</h3>
+<p align="center">
+  <img src="https://leetcode-streak-badge.herokuapp.com/?user=BukhariProgrammer" alt="LeetCode Streak"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBukhariDev&theme=dark" alt="Top Languages"/>
 </p>
