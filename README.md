@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Bukhari</h1>
 
-<p align="center">
+<p>
   <strong>🔭 I’m currently working on Flutter</strong><br>
   <strong>🌱 I’m currently learning API Integration & Backend Development</strong><br>
   <strong>💬 Ask me anything about Flutter</strong><br>
@@ -8,8 +8,8 @@
   <strong>⚡ Fun fact: I can write "Hello, World!" in over 10 different programming languages!</strong>
 </p>
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p>
   <a href="https://github.com/AliBukhariDev" target="_blank">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
@@ -24,12 +24,12 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,leetcode,git,postman,figma,xd&perline=5" alt="My Skills"/>
   </a>
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBukhariDev&theme=dark" alt="Top Languages"/>
 </p>
