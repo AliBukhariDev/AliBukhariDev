@@ -5,7 +5,6 @@
   <strong>🌱 I’m currently learning Backend Development</strong><br>
   <strong>💬 Ask me anything about Flutter</strong><br>
   <strong>📫 How to reach me: contactsyedmuhammadali@gmail.com</strong><br>
-  <strong>🌐 My website: <a href="https://thetechbrothers.net" target="_blank">thetechbrothers.net</a></strong><br>
   <strong>⚡ Fun fact: I can write "Hello, World!" in over 10 different programming languages!</strong>
 </p>
 
