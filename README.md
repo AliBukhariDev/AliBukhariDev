@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,leetcode,git,postman,figma,xd&perline=5" alt="My Skills"/>
