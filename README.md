@@ -2,7 +2,6 @@
 
 <p>
   <strong>🔭 I’m currently working on Flutter</strong><br>
-  <strong>🌱 I’m currently learning API Integration & Python</strong><br>
   <strong>💬 Ask me anything about Flutter</strong><br>
   <strong>📫 How to reach me: contactsyedmuhammadali@gmail.com</strong><br>
   <strong>⚡ Fun fact: I can write "Hello, World!" in over 10 different programming languages!</strong>
